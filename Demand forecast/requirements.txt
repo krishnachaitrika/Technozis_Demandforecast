@@ -1,7 +1,2 @@
 streamlit
-pandas
-scikit-learn
-joblib
 pytz
-openpyxl
-numpy
