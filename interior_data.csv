@@ -1,0 +1,9 @@
+house_type,area_sqft,rooms,city_type,budget_lakhs,style,package,cost_lakhs
+1BHK,600,2,Metro,4,Modern,Basic,3.8
+2BHK,900,3,Metro,6,Modern,Standard,5.9
+3BHK,1200,4,Metro,10,Luxury,Premium,9.8
+2BHK,850,3,Non-Metro,5,Traditional,Basic,4.6
+3BHK,1300,4,Non-Metro,8,Modern,Standard,7.5
+1BHK,550,2,Metro,3,Minimal,Basic,2.9
+2BHK,1000,3,Metro,9,Luxury,Premium,8.7
+3BHK,1400,4,Metro,12,Luxury,Premium,11.2
